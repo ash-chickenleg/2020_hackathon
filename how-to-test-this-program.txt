@@ -1,0 +1,7 @@
+You will need to download the following files:
+
+(1) Driver.java
+(2) MtShasta.java
+(3) Run.java
+
+<Driver.java> has the main method that makes the entire program work.
